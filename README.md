@@ -1,7 +1,9 @@
 # Colab-aria2-Torrent-Downloader
 
 **Single-cell aria2 wrapper for Google Colab**
+
 <a href="https://colab.research.google.com/github/7percent7/Colab-aria2-Torrent-Downloader/blob/main/GPT_TorrentD.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 A compact, single-cell Colab script that makes downloading torrents (magnet links or `.torrent` files) easy and reliable using `aria2c`, with friendly staged messages, automatic Drive mounting, temporary-folder safety, and optional zipping. It was created to be pasted into a Colab notebook cell and executed as-is.
 ---
 
